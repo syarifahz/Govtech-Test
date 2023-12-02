@@ -1,3 +1,4 @@
+@login-scenarios
 Feature: Saucedemo Login
 
   @test-case-1 @positive-case
